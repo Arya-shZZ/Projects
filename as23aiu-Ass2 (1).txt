@@ -1,0 +1,95 @@
+
+VARIETY                             PRICE   POT_SIZE TREE_I
+------------------------------ ---------- ---------- ------
+Bramley's Seedling                  25.75          8 000074
+White Joaneting                      50.4          8 000070
+
+
+MAX(TOTAL_TREES)
+----------------
+               7
+
+
+NAME                                                
+----------------------------------------------------
+Rebecca, Martins
+Richard, Silver
+Rebecca, Neo
+Ruth, Tuttle
+Reece, Southern
+Rex, Masters
+
+6 rows selected. 
+
+
+CUSTOMER                                                       
+---------------------------------------------------------------
+Aaryan, Sharma ( C9751 )
+Cleb, Monty ( C67076 )
+Dixon, Mel ( C57453 )
+Gaye, Anthony ( C26453 )
+Genoa, Carrie ( C22224 )
+Glade, James ( C89358 )
+Leeman, Grace ( C54767 )
+Leeman, Terence ( C55806 )
+Lewis, Ian ( C39526 )
+Malik, Sunil ( C83772 )
+Mannock, Harry ( C73847 )
+
+CUSTOMER                                                       
+---------------------------------------------------------------
+Maynard, Claire ( C62223 )
+Oslovski, Boris ( C12382 )
+Parraman, Junior ( C49822 )
+Pearsson, Greta ( C22675 )
+Rivers, Jill ( C34673 )
+Rivers, Mona ( C65893 )
+Roberts, Talia ( C78452 )
+Slade, Gordon ( C21838 )
+Southern, Reece ( C88764 )
+Tuttle, Ruth ( C83918 )
+Yang, Lui ( C88335 )
+
+CUSTOMER                                                       
+---------------------------------------------------------------
+Zimmerman, Able ( C39202 )
+
+23 rows selected. 
+
+
+NAME                                                 CONTACT_NO  DATE_ORDE NUMBER_ORDERED
+---------------------------------------------------- ----------- --------- --------------
+Holmsworthy, Claire                                  01198345284 05-DEC-19              1
+Reason, Kelly                                        03545620302 02-JAN-20              1
+Maru, Callum                                         04439863925 30-NOV-19              3
+Robbins, Martha                                      09389863734 13-JAN-20              1
+Aaryan, Sharma                                       07407744286 22-DEC-23              1
+Kennedy, Graeme                                      05452374187 02-JAN-20              2
+Slater, Martin                                       04390865872 12-NOV-19              1
+Legion, Craig                                        06399823840 16-NOV-19              3
+Silver, Richard                                      01433628388 02-JAN-20              3
+Marvin, Leon                                         02092319845 23-JAN-20              1
+Silver, Richard                                      01433628388 02-DEC-19              1
+
+NAME                                                 CONTACT_NO  DATE_ORDE NUMBER_ORDERED
+---------------------------------------------------- ----------- --------- --------------
+Neo, Rebecca                                         05283283285 01-OCT-19              1
+Leibermann, Samuel                                   09934653883 19-DEC-19              1
+Mann, Harry                                          06462347295 02-JAN-20              1
+Teague, Micheal                                      03487639561 13-MAR-20              2
+Kumar, Satir                                         08398659309 17-NOV-19              4
+Silver, Richard                                      01433628388 02-JAN-20              1
+Robbins, Martha                                      09389863734 30-OCT-19              2
+
+18 rows selected. 
+
+
+Variety                        Fruit Yield   
+------------------------------ ----- --------
+Kidd's Orange Red              Early Heavy   
+
+
+Order ID Number of Trees Total Price
+-------- --------------- -----------
+00000072               4       175.2
+
