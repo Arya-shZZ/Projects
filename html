@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real-Time Ticket Booking</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Connects CSS -->
+</head>
+<body>
+    <header>
+        <h1>Real-Time Ticket Booking</h1>
+    </header>
+
+    <main>
+        <section id="events">
+            <h2>Available Events</h2>
+            <ul>
+                <li>
+                    <h3>🎤 Concert: The Weekend Tour</h3>
+                    <p>Date: March 25, 2025 | Venue: London O2 Arena</p>
+                    <button onclick="selectEvent('The Weekend Tour')">Book Now</button>
+                </li>
+                <li>
+                    <h3>🎬 Movie: Avatar 3</h3>
+                    <p>Date: April 10, 2025 | Venue: IMAX Theatre</p>
+                    <button onclick="selectEvent('Avatar 3')">Book Now</button>
+                </li>
+            </ul>
+        </section>
+
+        <section id="booking-form" class="hidden">
+            <h2>Book Your Ticket</h2>
+            <form id="ticketForm">
+                <label for="name">Full Name:</label>
+                <input type="text" id="name" required>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" required>
+
+                <label for="seats">Select Seat:</label>
+                <select id="seats"></select>
+
+                <button type="submit">Confirm Booking</button>
+            </form>
+        </section>
+    </main>
+
+    <script src="script.js"></script> <!-- Connects JavaScript -->
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Real-Time Ticket Booking</title>
+  <!-- Link to the external CSS file -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Your HTML content goes here -->
+</body>
+</html>
+
+/ticket-booking/
+│── index.html  (Main file)
+│── body{.css  (CSS file for styling)
+│── document.js   (JavaScript file for interactivity)
